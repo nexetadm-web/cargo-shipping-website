@@ -3,13 +3,13 @@ A logistics and shipping website concept designed for cargo booking, destination
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](Ccargohompage.png)
+![Homepage](cargohomepage.png)
 
 ### Packages
 ![Packages](cargopkgs.png)
 
 ### Services
-![Services](Ccargoservices.png)
+![Services](cargoservices.png)
 
 # 🛠️ Tech Stack
 - HTML5
