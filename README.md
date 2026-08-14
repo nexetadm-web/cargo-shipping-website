@@ -3,7 +3,7 @@ A logistics and shipping website concept designed for cargo booking, destination
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](cargohomepage.png)
+![Hompage](cargohompage.png)
 
 ### Packages
 ![Packages](cargopkgs.png)
