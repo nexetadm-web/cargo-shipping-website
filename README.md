@@ -1,6 +1,15 @@
 # Prototype / Concept Project
 A logistics and shipping website concept designed for cargo booking, destination management, shipment tracking and delivery-related workflows.
+## 📸 Screenshots
 
+### Homepage
+![Homepage](Ccargohompage.png)
+
+### Packages
+![Packages](cargopkgs.png)
+
+### Services
+![Services](Ccargoservices.png)
 
 # 🛠️ Tech Stack
 - HTML5
